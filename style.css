@@ -58,6 +58,11 @@ margin: 1.25rem;
     margin-bottom: 2rem;
 }
 
+h1:hover{
+color: var(--Yellow);
+cursor: pointer;
+}
+
 @media(min-width:500px){
     .container{
         width:400px;
